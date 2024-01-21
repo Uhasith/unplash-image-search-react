@@ -9,35 +9,15 @@
 
 <h2 align='center'>Awesome Vite.js</h2>
 
-<p align='center'>
-A curated list of awesome things related to <a href='https://github.com/vitejs/vite'>Vite.js</a>
-<br><br>
+# React + Vite
 
-<a href='https://github.com/sindresorhus/awesome'>
-<img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome'>
-</a>
-</p>
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<!--lint ignore-->
+Currently, two official plugins are available:
 
-## Table of Contents
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-<img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
-
-Use the "Table of Contents" menu on the top-right corner to explore the list.
-
-## Resources
-
-### Official Resources
-
-- [Documentation](https://vitejs.dev/)
-- [GitHub Repo](https://github.com/vitejs/vite)
-
-<!--### Tutorials-->
-
-## Get Started
-
-- [create-vite](https://github.com/vitejs/vite/tree/main/packages/create-vite) - Scaffolding Your First Vite Project.
 
 
 
