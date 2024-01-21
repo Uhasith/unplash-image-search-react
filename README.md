@@ -1,6 +1,6 @@
 # Unplash Image Search App
 
-[Working Application - Deployed](https://backroads-tour-site-hasith.netlify.app/#home)
+[Working Application - Deployed](https://unplash-image-search-uhasith.netlify.app)
 
 
 #### Run React App Locally
@@ -8,7 +8,7 @@
 - clone
 
 ```sh
-https://github.com/Uhasith/temp-backroads-app.git
+https://github.com/Uhasith/unplash-image-search-react.git
 ```
 
 - run dev server
